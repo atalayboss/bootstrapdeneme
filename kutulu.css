@@ -1,0 +1,47 @@
+.anabg{
+    background-color: rgb(125, 125, 125);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.kutu1 {
+    background-color: rgb(31, 30, 30);
+    color:rgb(0, 122, 10);
+    max-width: none;
+    height: 100px;
+    padding-left: 40%;
+
+}
+
+.nav{
+    background-color: cornsilk;
+    width: 250px;
+    height: auto;
+    font-size: x-large;
+    float: left;
+}
+
+.kutu2 {
+    background-color: rgb(31, 30, 30);
+    color:rgb(0, 122, 10);
+    width: 200px;
+    height: 200px;
+    float: left;
+
+
+}
+
+.container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+ 
+.card {
+    background-color: floralwhite;
+    width: 200px;
+    height: 200px;
+    color: blue;
+    float: left;
+    margin: 2%;
+}
